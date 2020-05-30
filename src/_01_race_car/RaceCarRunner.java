@@ -14,6 +14,7 @@ public class RaceCarRunner {
 
 		// 2. Print the RaceCar's position in the race
 		// Try to use syso
+		// Example
 		System.out.println(car.getPositionInRace());
 
 		// 3. Crash the RaceCar
