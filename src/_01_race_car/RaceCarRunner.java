@@ -27,6 +27,12 @@ public class RaceCarRunner {
 		
 		// 5. Help the car move into first place.
 		car.overtake();
+		car.overtake();
+		car.overtake();
+		car.overtake();
+		car.overtake();
+		car.overtake();
+		car.overtake();
 		//positionInRace = 1;
 		
 	}
