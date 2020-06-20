@@ -15,7 +15,7 @@ int minutes= Integer.parseInt(time);
 pop.putInMicrowave(corn);
 pop.startMicrowave();
 	
-	
+  	
 	}
 
 }
