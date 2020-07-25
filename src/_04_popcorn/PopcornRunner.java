@@ -14,6 +14,8 @@ public class PopcornRunner {
 		int minutes = Integer.parseInt(time);
 		pop.putInMicrowave(corn);
 		pop.startMicrowave();
+		
+		//Some code
 
 	}
 
