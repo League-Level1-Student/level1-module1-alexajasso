@@ -10,13 +10,17 @@ public class PopcornRunner {
 		Popcorn corn = new Popcorn(flavor);
 		Microwave pop = new Microwave();
 
-		String time = JOptionPane.showInputDialog(" How long do you want your popcorn in the microwave for? ");
+		String time = JOptionPane.showInputDialog(" How many minutes do you want your popcorn in the microwave for? ");
 		int minutes = Integer.parseInt(time);
 		pop.putInMicrowave(corn);
+		pop.setTime(minutes);
 		pop.startMicrowave();
+		
+
 		
 		//Some code
 
 	}
 
 }
+

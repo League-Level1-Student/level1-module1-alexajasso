@@ -18,7 +18,7 @@ class Microwave {
 	Popcorn thingToBeCooked;
 
 	Microwave() {
-		System.out.println("Microwave says: a Microwave has been made.");
+		System.out.println("Microwave says: Walking to the microwave");
 	}
 
 	void putInMicrowave(Popcorn thingToBeCooked) {
