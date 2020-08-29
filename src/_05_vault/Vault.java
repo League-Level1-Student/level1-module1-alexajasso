@@ -22,6 +22,10 @@ public boolean tryCode(int number) {
 public static void main(String[] args) {
 	
 		Vault vault = new Vault(234);
+		JamesBond James = new JamesBond  ();
+		System.out.println(James.findCode(vault)); 
+		
+		
 	}
 
 }
