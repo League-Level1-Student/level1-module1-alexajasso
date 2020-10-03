@@ -6,6 +6,11 @@ public class DuckRunner {
 		// TODO Auto-generated method stub
 		Duck duck = new Duck ("harry",5);
 		duck.quack();
+		duck.waddle();
+		
+		
+		
+		
 	}
 
 }

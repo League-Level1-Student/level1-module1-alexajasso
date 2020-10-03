@@ -10,16 +10,11 @@ public class Duck {
 	}
 	 
 	 void quack() {
-		 System.out.println("quack");
+		 System.out.println("Duck is quacking");
 	 }
 	 
-	 void waddle () {
-		 
+	 void waddle() {
+		 System.out.println("Duck is waddling");
 	 }
-	 
-	 
-	 
-	 
-	 
-	 
+
 }
